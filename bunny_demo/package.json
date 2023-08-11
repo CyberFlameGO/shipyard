@@ -9,7 +9,7 @@
         "clean": "rimraf ./public/wasm"
     },
     "dependencies": {
-        "@wasm-tool/rollup-plugin-rust": "^1.0.2",
+        "@wasm-tool/rollup-plugin-rust": "^1.0.7",
         "npm-run-all": "^4.1.5",
         "rimraf": "^3.0.2",
         "rollup": "^2.10.7"
